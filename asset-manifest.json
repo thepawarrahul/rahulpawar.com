@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rahulpawar.com/static/css/main.61298f8b.css",
-    "main.js": "/rahulpawar.com/static/js/main.1e56690e.js",
-    "static/js/787.5809834d.chunk.js": "/rahulpawar.com/static/js/787.5809834d.chunk.js",
-    "index.html": "/rahulpawar.com/index.html",
-    "main.61298f8b.css.map": "/rahulpawar.com/static/css/main.61298f8b.css.map",
-    "main.1e56690e.js.map": "/rahulpawar.com/static/js/main.1e56690e.js.map",
-    "787.5809834d.chunk.js.map": "/rahulpawar.com/static/js/787.5809834d.chunk.js.map"
+    "main.css": "/static/css/main.61298f8b.css",
+    "main.js": "/static/js/main.3e80c0c2.js",
+    "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
+    "index.html": "/index.html",
+    "main.61298f8b.css.map": "/static/css/main.61298f8b.css.map",
+    "main.3e80c0c2.js.map": "/static/js/main.3e80c0c2.js.map",
+    "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.61298f8b.css",
-    "static/js/main.1e56690e.js"
+    "static/js/main.3e80c0c2.js"
   ]
 }
